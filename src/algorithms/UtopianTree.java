@@ -1,12 +1,10 @@
 package algorithms;
 
-import java.io.BufferedWriter;
-import java.io.FileWriter;
 import java.io.IOException;
 import java.util.Scanner;
 
 public class UtopianTree {
-    public static void main(String[] args) throws IOException {
+    public static void main(String[] args) {
         try (Scanner scanner = new Scanner(System.in)) {
             int t = scanner.nextInt();
             scanner.skip("(\r\n|[\n\r\u2028\u2029\u0085])?");
