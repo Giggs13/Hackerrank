@@ -1,4 +1,4 @@
-package algorithms;
+package com.giggs13.algorithms;
 
 import java.util.Arrays;
 import java.util.Scanner;

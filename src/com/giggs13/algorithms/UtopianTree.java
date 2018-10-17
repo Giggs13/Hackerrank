@@ -1,4 +1,4 @@
-package algorithms;
+package com.giggs13.algorithms;
 
 import java.io.IOException;
 import java.util.Scanner;

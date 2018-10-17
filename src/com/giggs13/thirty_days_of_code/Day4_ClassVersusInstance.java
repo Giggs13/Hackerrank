@@ -1,4 +1,4 @@
-package com.giggs13;
+package com.giggs13.thirty_days_of_code;
 
 import java.util.Scanner;
 

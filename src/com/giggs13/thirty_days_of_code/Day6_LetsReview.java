@@ -1,7 +1,6 @@
-package com.giggs13;
+package com.giggs13.thirty_days_of_code;
 
 import java.util.ArrayList;
-import java.util.Collections;
 import java.util.List;
 import java.util.Scanner;
 
